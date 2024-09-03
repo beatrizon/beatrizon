@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beatrizsousassg&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beatrizon&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,7 +92,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBeatrizsousassg&s=50&c=8000ff&bg=00000000&no=2&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbeatrizon&s=40&c=8000ff&bg=00000000&no=2&ff=digi&tb=VISITS%3A++&ta=" /></p> 
 <br>
 </div>
 
